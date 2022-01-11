@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "filters": 1,
+      "name": "Ana"
+    },
+    {
+      "id": 2,
+      "filters": 2,
+      "name": "Sanya"
+    },
+    {
+      "id": 3,
+      "filters": 3,
+      "name": "Artur"
+    },
+    {
+      "id": 4,
+      "filters": 2,
+      "name": "Vanya"
+    },
+    {
+      "id": 5,
+      "filters": 2,
+      "name": "Ana"
+    },
+    {
+      "id": 6,
+      "filters": 1,
+      "name": "Jenya"
+    },
+    {
+      "id": 7,
+      "filters": 1,
+      "name": "Dima"
+    }
+  ]
+}
